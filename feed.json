@@ -1,0 +1,10 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "365 Pixels",
+	"icon": "https://micro.blog/cliff538/avatar.jpg",
+	"home_page_url": "https://365pixels.xyz/",
+	"feed_url": "https://365pixels.xyz/feed.json",
+	"items": [
+		
+	]
+}
