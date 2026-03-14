@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://365pixels.micro.blog/2026/03/13/wrapped-by-the-sun.html",
+				"title": "Wrapped by the Sun (72/365)",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Long damn day. Long three-day trip. I&rsquo;m tired. Exhausted. Ready to be home.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2026/img-5406.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A sunset view over an airport, featuring an air traffic control tower, parking structures, and multiple runways and roads.\">\n\nLong damn day. Long three-day trip. I'm tired. Exhausted. Ready to be home. \n\n\n<details>\n<summary>Click for Stray Pixels</summary>\n<p><img src=\"uploads/2026/img-5405.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A control tower stands silhouetted against a vibrant sunset, with warm hues illuminating the sky.\"></p>\n<p><img src=\"uploads/2026/img-5403.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A corridor with large windows reflects light, providing a view of an airport control tower in the distance.\"></p>\n</details>\n",
+				"date_published": "2026-03-13T19:52:59-07:00",
+				"url": "https://365pixels.xyz/2026/03/13/wrapped-by-the-sun.html",
+				"tags": ["iPhone","2026","Stray-Pixels"]
+			},
+			{
+				"id": "http://365pixels.micro.blog/2026/03/12/harbor-assist.html",
+				"title": "Harbor Assist (71/365) ",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2026/img-5369.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A large Coast Guard ship is being guided by a smaller tugboat on a calm body of water.\">\n\n",
+				"date_published": "2026-03-12T15:14:18-07:00",
+				"url": "https://365pixels.xyz/2026/03/12/harbor-assist.html",
+				"tags": ["iPhone","2026"]
+			},
+			{
 				"id": "http://365pixels.micro.blog/2026/03/11/sfo.html",
 				"title": "SFO (70/365) ",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -37,7 +55,7 @@
 				"id": "http://365pixels.micro.blog/2026/03/08/golden.html",
 				"title": "Golden  (67/365) ",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2026/355725da19.jpg\" alt=\"Auto-generated description: Silhouetted palm trees stand against a vibrant orange sunset sky, with faint shapes of distant buildings and structures visible on the horizon.\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/202505/2026/355725da19.jpg\" alt=\"Auto-generated description: Silhouetted palm trees stand against a vibrant orange sunset sky, with faint shapes of distant buildings and structures visible on the horizon.\">\n",
 				"date_published": "2026-03-08T19:57:26-07:00",
 				"url": "https://365pixels.xyz/2026/03/08/golden.html",
 				"tags": ["iPhone","2026"]
