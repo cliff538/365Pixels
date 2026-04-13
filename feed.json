@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://365pixels.micro.blog/2026/04/12/tree-cloud.html",
+				"title": "Tree Cloud (102/365) ",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Or is it a Cloud Tree?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2026/39da1abf24.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A single, fluffy white cloud is floating above the silhouette of treetops against a clear sky.\">\n\nOr is it a Cloud Tree? \n\n<details>\n<summary>Click for Stray Pixels</summary>\n<p><img src=\"uploads/2026/1fb8c54085.jpg\"></p>\n</details>\n",
+				"date_published": "2026-04-12T17:31:02-07:00",
+				"url": "https://365pixels.xyz/2026/04/12/tree-cloud.html",
+				"tags": ["iPhone","2026","Stray-Pixels"]
+			},
+			{
+				"id": "http://365pixels.micro.blog/2026/04/11/skybow.html",
+				"title": "Skybow (101/365)",
+				"content_html": "<!-- raw HTML omitted -->\n<p>This one was fun. Looked out the window and was sitting next to this beautiful rainbow in the sky.</p>\n",
+				"content_text": "<img src=\"uploads/2026/img-5723.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: An aerial view features a vibrant rainbow arching over a landscape partially obscured by fluffy clouds.\">\n\nThis one was fun. Looked out the window and was sitting next to this beautiful rainbow in the sky. \n",
+				"date_published": "2026-04-11T17:00:04-07:00",
+				"url": "https://365pixels.xyz/2026/04/11/skybow.html",
+				"tags": ["iPhone","2026"]
+			},
+			{
 				"id": "http://365pixels.micro.blog/2026/04/10/tail-inspection.html",
 				"title": "Tail Inspection (100/365) ",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -36,7 +54,7 @@
 				"id": "http://365pixels.micro.blog/2026/04/07/embarkation.html",
 				"title": "Embarkation (97/365) ",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2026/4de766c6b5.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A large jet airplane is parked at an airport gate with its engine and wing visible.\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/202505/2026/4de766c6b5.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A large jet airplane is parked at an airport gate with its engine and wing visible.\">\n",
 				"date_published": "2026-04-07T14:12:40-07:00",
 				"url": "https://365pixels.xyz/2026/04/07/embarkation.html",
 				"tags": ["iPhone","2026"]
