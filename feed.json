@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://365pixels.micro.blog/2026/04/15/sun-dog.html",
+				"title": "Sun Dog (105/365) ",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2026/60b30188f6.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A dog on a leash walks along a rocky desert trail with cacti and hills in the background during a sunset.\">\n",
+				"date_published": "2026-04-15T17:35:31-07:00",
+				"url": "https://365pixels.xyz/2026/04/15/sun-dog.html",
+				"tags": ["iPhone","2026"]
+			},
+			{
+				"id": "http://365pixels.micro.blog/2026/04/14/walking-in-burbank.html",
+				"title": "Walking in Burbank (104/365) ",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2026/d9550d46d1.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A tree-lined sidewalk is illuminated by dappled sunlight in a suburban neighborhood.\">\n\n",
+				"date_published": "2026-04-14T15:05:54-07:00",
+				"url": "https://365pixels.xyz/2026/04/14/walking-in-burbank.html",
+				"tags": ["iPhone","2026"]
+			},
+			{
+				"id": "http://365pixels.micro.blog/2026/04/13/my-view.html",
+				"title": "My View (103/365) ",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Waiting for the van.</p>\n<p>Cup of hot coffee in hand.</p>\n<p>Watching the morning light slip through the clouds.</p>\n<p>The start of another day.</p>\n",
+				"content_text": "<img src=\"uploads/2026/58f2991186.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A grand building with stone and stucco facade stands against a cloudy sky, featuring arched windows and decorative elements.\">\n\nWaiting for the van. \n\nCup of hot coffee in hand. \n\nWatching the morning light slip through the clouds. \n\nThe start of another day. \n",
+				"date_published": "2026-04-13T14:51:26-07:00",
+				"url": "https://365pixels.xyz/2026/04/13/my-view.html"
+			},
+			{
 				"id": "http://365pixels.micro.blog/2026/04/12/tree-cloud.html",
 				"title": "Tree Cloud (102/365) ",
 				"content_html": "<!-- raw HTML omitted -->\n<p>Or is it a Cloud Tree?</p>\n<!-- raw HTML omitted -->\n",
@@ -37,7 +63,7 @@
 				"id": "http://365pixels.micro.blog/2026/04/09/day-end.html",
 				"title": "Day End (99/365) ",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": " \n\n<img src=\"uploads/2026/9a00f2b43b.jpg\" alt=\"Auto-generated description: A beautiful sunset with palm trees silhouetted against a vibrant sky and string lights.\">\n",
+				"content_text": " \n\n<img src=\"https://cdn.uploads.micro.blog/202505/2026/9a00f2b43b.jpg\" alt=\"Auto-generated description: A beautiful sunset with palm trees silhouetted against a vibrant sky and string lights.\">\n",
 				"date_published": "2026-04-09T17:56:08-07:00",
 				"url": "https://365pixels.xyz/2026/04/09/day-end.html"
 			},
