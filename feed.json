@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://365pixels.micro.blog/2026/04/17/lake-powell.html",
+				"title": "Lake Powell (107/365)",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Lake Powell from above.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2026/img-5772.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A vast, aerial view of a rugged landscape features a winding river or canyon, surrounded by arid terrain extending to the horizon.\">\n\nLake Powell from above. \n\n<details>\n<summary>Click for Stray Pixels</summary>\n<p><img src=\"uploads/2026/3e113e19ee.jpg\"></p>\n</details>\n",
+				"date_published": "2026-04-17T15:30:34-07:00",
+				"url": "https://365pixels.xyz/2026/04/17/lake-powell.html",
+				"tags": ["iPhone","2026"]
+			},
+			{
+				"id": "http://365pixels.micro.blog/2026/04/16/dreamy-desert.html",
+				"title": "Dreamy Desert (106/365) ",
+				"content_html": "<!-- raw HTML omitted -->\n<p>More hiking on these precious days off. It&rsquo;s been cooler than normal, and we are taking advantage of it.</p>\n",
+				"content_text": "<img src=\"uploads/2026/860a963a2f.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A sunlit desert landscape features rocky ground, sparse vegetation, and a vivid blue sky.\">\n\nMore hiking on these precious days off. It's been cooler than normal, and we are taking advantage of it. \n",
+				"date_published": "2026-04-16T15:49:33-07:00",
+				"url": "https://365pixels.xyz/2026/04/16/dreamy-desert.html",
+				"tags": ["iPhone","2026"]
+			},
+			{
 				"id": "http://365pixels.micro.blog/2026/04/15/sun-dog.html",
 				"title": "Sun Dog (105/365) ",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -36,7 +54,7 @@
 				"id": "http://365pixels.micro.blog/2026/04/12/tree-cloud.html",
 				"title": "Tree Cloud (102/365) ",
 				"content_html": "<!-- raw HTML omitted -->\n<p>Or is it a Cloud Tree?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2026/39da1abf24.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A single, fluffy white cloud is floating above the silhouette of treetops against a clear sky.\">\n\nOr is it a Cloud Tree? \n\n<details>\n<summary>Click for Stray Pixels</summary>\n<p><img src=\"uploads/2026/1fb8c54085.jpg\"></p>\n</details>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/202505/2026/39da1abf24.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A single, fluffy white cloud is floating above the silhouette of treetops against a clear sky.\">\n\nOr is it a Cloud Tree? \n\n<details>\n<summary>Click for Stray Pixels</summary>\n<p><img src=\"https://cdn.uploads.micro.blog/202505/2026/1fb8c54085.jpg\"></p>\n</details>\n",
 				"date_published": "2026-04-12T17:31:02-07:00",
 				"url": "https://365pixels.xyz/2026/04/12/tree-cloud.html",
 				"tags": ["iPhone","2026","Stray-Pixels"]
@@ -54,7 +72,7 @@
 				"id": "http://365pixels.micro.blog/2026/04/10/tail-inspection.html",
 				"title": "Tail Inspection (100/365) ",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2026/af218c2e4f.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: An airport scene shows a UPS cargo plane parked on the tarmac with a control tower visible in the background.\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/202505/2026/af218c2e4f.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: An airport scene shows a UPS cargo plane parked on the tarmac with a control tower visible in the background.\">\n",
 				"date_published": "2026-04-10T19:57:30-07:00",
 				"url": "https://365pixels.xyz/2026/04/10/tail-inspection.html",
 				"tags": ["iPhone","2026"]
