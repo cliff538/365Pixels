@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://365pixels.micro.blog/2026/07/19/a-window-into-the-night.html",
+				"title": "A Window Into The Night (200/365) ",
+				"content_html": "<img src=\"uploads/2026/072cf197bb.jpg\">\n",
+				"content_text": "<img src=\"uploads/2026/072cf197bb.jpg\">\n",
+				"date_published": "2026-07-19T23:30:53-05:00",
+				"url": "https://365pixels.xyz/2026/07/19/a-window-into-the-night.html",
+				"tags": ["iPhone","2026"]
+			},
+			{
 				"id": "http://365pixels.micro.blog/2026/07/18/reflections.html",
 				"title": "Reflections (199/365)",
 				"content_html": "<img src=\"uploads/2026/42e9b066e8.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A modern building exterior features large glass windows, cylindrical structural elements, and a paved walkway with several bollards and a bench.\">\n<img src=\"uploads/2026/e92137897d.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A modern building facade featuring large reflective glass windows and sleek architectural lines is shown in black and white.\">\n<p>Two mornings in a row getting up at 1 A.M., my body clock time, has turned me into a zombie.</p>\n<p>Still, I zombie on.</p>\n",
@@ -45,8 +54,8 @@
 			{
 				"id": "http://365pixels.micro.blog/2026/07/14/alien-bloom.html",
 				"title": "Alien Bloom (195/365)",
-				"content_html": "<img src=\"uploads/2026/9409a9f930.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A colorful mural on a utility box depicts a stylized blue-skinned figure with plant-like features, including flowers growing from the head, against an abstract background.\">\n<p>I really like the city&rsquo;s utility box art program.</p>\n<details>\n<summary>Click for Stray Pixels</summary>\n<p><img src=\"uploads/2026/98f2fb0a33.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A stylized portrait of a human face is painted on a utility box, accompanied by floral and abstract designs.\"></p>\n<p><img src=\"uploads/2026/58c3f7bea0.jpg\" width=\"600\" height=\"800\" alt=\"\"></p>\n</details>\n",
-				"content_text": "<img src=\"uploads/2026/9409a9f930.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A colorful mural on a utility box depicts a stylized blue-skinned figure with plant-like features, including flowers growing from the head, against an abstract background.\">\n\n\nI really like the city's utility box art program. \n\n\n\n\n<details>\n<summary>Click for Stray Pixels</summary>\n<p><img src=\"uploads/2026/98f2fb0a33.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A stylized portrait of a human face is painted on a utility box, accompanied by floral and abstract designs.\"></p>\n<p><img src=\"uploads/2026/58c3f7bea0.jpg\" width=\"600\" height=\"800\" alt=\"\"></p>\n</details>\n",
+				"content_html": "<img src=\"https://cdn.uploads.micro.blog/202505/2026/9409a9f930.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A colorful mural on a utility box depicts a stylized blue-skinned figure with plant-like features, including flowers growing from the head, against an abstract background.\">\n<p>I really like the city&rsquo;s utility box art program.</p>\n<details>\n<summary>Click for Stray Pixels</summary>\n<p><img src=\"https://cdn.uploads.micro.blog/202505/2026/98f2fb0a33.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A stylized portrait of a human face is painted on a utility box, accompanied by floral and abstract designs.\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/202505/2026/58c3f7bea0.jpg\" width=\"600\" height=\"800\" alt=\"\"></p>\n</details>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/202505/2026/9409a9f930.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A colorful mural on a utility box depicts a stylized blue-skinned figure with plant-like features, including flowers growing from the head, against an abstract background.\">\n\n\nI really like the city's utility box art program. \n\n\n\n\n<details>\n<summary>Click for Stray Pixels</summary>\n<p><img src=\"https://cdn.uploads.micro.blog/202505/2026/98f2fb0a33.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A stylized portrait of a human face is painted on a utility box, accompanied by floral and abstract designs.\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/202505/2026/58c3f7bea0.jpg\" width=\"600\" height=\"800\" alt=\"\"></p>\n</details>\n",
 				"date_published": "2026-07-14T19:51:11-05:00",
 				"url": "https://365pixels.xyz/2026/07/14/alien-bloom.html",
 				"tags": ["iPhone","2026"]
