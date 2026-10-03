@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://365pixels.micro.blog/2026/10/02/cholla-light.html",
+				"title": "Cholla Light (275/365) ",
+				"content_html": "<img src=\"uploads/2026/wt-17.jpg\" width=\"600\" height=\"400\" alt=\"Auto-generated description: A cactus with fuzzy stems is illuminated from behind, creating a glowing outline against a blurred background.\">\n<p>Good day today. Had lunch with an old friend; always good to catch up in person. Got a few desert shots today out on a drive and worked on my new web project. Nothing to announce right now; it&rsquo;s still not ready for the public, and I&rsquo;m still thinking it through, but it&rsquo;s always fun to dabble in a fun new project!</p>\n<p>Never stop learning!</p>\n",
+				"content_text": "<img src=\"uploads/2026/wt-17.jpg\" width=\"600\" height=\"400\" alt=\"Auto-generated description: A cactus with fuzzy stems is illuminated from behind, creating a glowing outline against a blurred background.\">\n\nGood day today. Had lunch with an old friend; always good to catch up in person. Got a few desert shots today out on a drive and worked on my new web project. Nothing to announce right now; it's still not ready for the public, and I'm still thinking it through, but it's always fun to dabble in a fun new project! \n\nNever stop learning! \n\n",
+				"date_published": "2026-10-02T16:59:02-07:00",
+				"url": "https://365pixels.xyz/2026/10/02/cholla-light.html",
+				"tags": ["2026","Nikon-Z8"]
+			},
+			{
+				"id": "http://365pixels.micro.blog/2026/10/01/the-rising.html",
+				"title": "The Rising (274/365)",
+				"content_html": "<img src=\"uploads/2026/wt-3.jpg\" width=\"600\" height=\"400\" alt=\"Auto-generated description: A dramatic sky filled with large, billowing clouds looms over silhouetted palm trees and buildings.\">\n<p><em>Nikon Z8 &amp; LR</em></p>\n<p>This shot is from yesterday, but I just got it processed today. It was time for some black &amp; white.</p>\n<p>Lots of work on the blog today. I didn&rsquo;t have a proper photo viewer you could scroll through all the photos with; now we do. You also couldn&rsquo;t click a picture on the main page to bring up a photo viewer, so I fixed that. I cleaned up the footer a bit. I also set the default for my photos to post at the largest size, so now they extend out from the post. In my blog settings, this was called photo overflow. I like it this way better.\nI changed the give kudos button on posts to &ldquo;Send Some Love&rdquo; and it now gives a nice shower of confetti.</p>\n<p>Lots of little changes all add up to a better experience, and I get to learn more about these Hugo-based blogs.</p>\n<p>I hope it was an outstanding day!</p>\n",
+				"content_text": "<img src=\"uploads/2026/wt-3.jpg\" width=\"600\" height=\"400\" alt=\"Auto-generated description: A dramatic sky filled with large, billowing clouds looms over silhouetted palm trees and buildings.\">\n\n_Nikon Z8 & LR_ \n\nThis shot is from yesterday, but I just got it processed today. It was time for some black & white. \n\nLots of work on the blog today. I didn't have a proper photo viewer you could scroll through all the photos with; now we do. You also couldn't click a picture on the main page to bring up a photo viewer, so I fixed that. I cleaned up the footer a bit. I also set the default for my photos to post at the largest size, so now they extend out from the post. In my blog settings, this was called photo overflow. I like it this way better. \nI changed the give kudos button on posts to \"Send Some Love\" and it now gives a nice shower of confetti. \n\nLots of little changes all add up to a better experience, and I get to learn more about these Hugo-based blogs. \n\nI hope it was an outstanding day! \n",
+				"date_published": "2026-10-01T15:39:53-07:00",
+				"url": "https://365pixels.xyz/2026/10/01/the-rising.html",
+				"tags": ["2026","Nikon-Z8"]
+			},
+			{
 				"id": "http://365pixels.micro.blog/2026/09/30/stormlight.html",
 				"title": "Stormlight (273/365)",
 				"content_html": "<img class=\"overflow\" src=\"https://365pixels.xyz/uploads/2026/edit-wt-29.jpg\" width=\"600\" height=\"310\" alt=\"Auto-generated description: A dramatic sky filled with large, dense clouds hovering over a distant industrial or warehouse complex near a barren landscape.\">\n<p><em>Nikon Z8 &amp; LR</em></p>\n<p>I&rsquo;ve been going for drives around sunset the past two nights to get my daily shots. It&rsquo;s been slim pickings around the house. Yesterday, I took 50+ shots of bees on the flowers with my iPhone, and not a single one was post-worthy. I was going to be so proud pulling off a nice bee on the flower shot with the iPhone. It&rsquo;s better to go for a drive with the Nikon.</p>\n<p>Today was a big day on the film front. Using new-to-me Jobo tanks and reels, I loaded two rolls of 120 and got them developed. The Jobo reels are not user-friendly at all. I practiced with them at least 20 times to figure them out and feel somewhat confident. 120 is unique because you have to remove the paper backing and the tape holding it on; then you can tackle getting the film on the reel. It went better than I thought. I was unwilling to sacrifice a roll of 120 to practice removing the backing paper, so I watched a YouTube video and called that good enough. I used Bellini C-46 chemicals. I couldn&rsquo;t scan today because apparently I don&rsquo;t have a 6x7 film mask. It&rsquo;s on order.</p>\n<p>I hope you had a great day wherever you were today. I appreciate you stopping by to take a look.</p>\n",
@@ -36,8 +54,8 @@
 			{
 				"id": "http://365pixels.micro.blog/2026/09/27/a-chain-of-events.html",
 				"title": "A Chain of Events (270/365) ",
-				"content_html": "<img src=\"uploads/2026/img-8272.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: Heavy metal chains with hooks are hanging from a compartment on a diamond plate metal surface.\">\n<p>Hope it&rsquo;s an outstanding day, everyone!</p>\n<p>Gotta go&hellip;</p>\n",
-				"content_text": "<img src=\"uploads/2026/img-8272.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: Heavy metal chains with hooks are hanging from a compartment on a diamond plate metal surface.\">\n\nHope it's an outstanding day, everyone! \n\nGotta go...\n",
+				"content_html": "<img src=\"https://cdn.uploads.micro.blog/202505/2026/img-8272.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: Heavy metal chains with hooks are hanging from a compartment on a diamond plate metal surface.\">\n<p>Hope it&rsquo;s an outstanding day, everyone!</p>\n<p>Gotta go&hellip;</p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/202505/2026/img-8272.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: Heavy metal chains with hooks are hanging from a compartment on a diamond plate metal surface.\">\n\nHope it's an outstanding day, everyone! \n\nGotta go...\n",
 				"date_published": "2026-09-27T11:16:26-07:00",
 				"url": "https://365pixels.xyz/2026/09/27/a-chain-of-events.html",
 				"tags": ["iPhone","2026"]
@@ -45,8 +63,8 @@
 			{
 				"id": "http://365pixels.micro.blog/2026/09/26/leaving-on-a-jet-airplane.html",
 				"title": "Leaving on a Jet Airplane (269/365)",
-				"content_html": "<img src=\"uploads/2026/img-8250.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: An airplane is ascending into the sky above an airport runway with mountains in the background.\">\n<p>Parking at work; got this from the parking garage.</p>\n",
-				"content_text": "<img src=\"uploads/2026/img-8250.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: An airplane is ascending into the sky above an airport runway with mountains in the background.\">\n\nParking at work; got this from the parking garage. \n\n",
+				"content_html": "<img src=\"https://cdn.uploads.micro.blog/202505/2026/img-8250.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: An airplane is ascending into the sky above an airport runway with mountains in the background.\">\n<p>Parking at work; got this from the parking garage.</p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/202505/2026/img-8250.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: An airplane is ascending into the sky above an airport runway with mountains in the background.\">\n\nParking at work; got this from the parking garage. \n\n",
 				"date_published": "2026-09-26T15:56:03-07:00",
 				"url": "https://365pixels.xyz/2026/09/26/leaving-on-a-jet-airplane.html",
 				"tags": ["iPhone","2026"]
